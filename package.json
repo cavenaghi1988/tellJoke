@@ -1,0 +1,20 @@
+{
+  "name": "robot-joke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel ./src/index.pug",
+    "build": "parcel build ./src/index.pug"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "parcel-plugin-clean-dist": "0.0.6",
+    "pug": "^3.0.0",
+    "sass": "^1.26.10"
+  }
+}
