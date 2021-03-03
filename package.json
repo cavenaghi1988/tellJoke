@@ -14,7 +14,7 @@
   "devDependencies": {
     "cssnano": "^4.1.10",
     "parcel-plugin-clean-dist": "0.0.6",
-    "pug": "^3.0.0",
+    "pug": "^3.0.1",
     "sass": "^1.26.10"
   }
 }
